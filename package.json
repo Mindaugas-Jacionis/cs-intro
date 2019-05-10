@@ -1,0 +1,13 @@
+{
+  "name": "cs-intro",
+  "version": "1.0.0",
+  "description": "Learning CS patterns",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mindaugas Jačionis",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
